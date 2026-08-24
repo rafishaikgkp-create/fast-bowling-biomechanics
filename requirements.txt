@@ -1,6 +1,0 @@
-streamlit>=1.28.0
-opencv-python-headless
-mediapipe
-numpy
-pandas
-plotly
